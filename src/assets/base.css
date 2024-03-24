@@ -16,3 +16,13 @@ a {
     text-decoration: none;
     color: aliceblue;
 }
+
+.v-input {
+    position: relative;
+    margin-top: 15px;
+}
+.v-input__append {
+   position: absolute;
+   right: 5px;
+   top: 30%;
+}
